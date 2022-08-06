@@ -1,0 +1,2 @@
+# Brain-Stroke-Prediction-with-EDA
+After applying Exploratory Data Analysis and Feature Engineering, the stroke prediction is done by using ML algorithms including Ensembling methods. 100% accuracy is reached in this notebook. The dataset is taken from https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset. Also, the notebook is available at my Kaggle account : https://www.kaggle.com/code/emreiekyurt/eda-prediction-100-on-brain-stroke-dataset/notebook
